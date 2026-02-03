@@ -1,0 +1,2 @@
+S = input()
+for i in range(8): print(S, end='')
