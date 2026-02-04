@@ -1,1 +1,1 @@
-for i in range(5, 18):
+for i in range(5, 18): print(i, end=" ")
